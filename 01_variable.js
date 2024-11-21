@@ -3,12 +3,12 @@ let accountEmail = "vaibhav@gmsil.com"
 var accountPassword ="1432555"
 accountCity = "sangamner"
 
-let accountState ="maharashtra"
+let accountState;
  // this is mt they gives output is undefine.
 
 
 
- 
+
 // following concept chnage the value oterwise before value are print
 /*
 
